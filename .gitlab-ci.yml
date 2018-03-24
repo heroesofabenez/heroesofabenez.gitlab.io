@@ -1,0 +1,17 @@
+image: nexendrie/php
+
+pages:
+  stage: deploy
+  environment:
+      name: pages
+      url: https://heroesofabenez.gitlab.io
+  script:
+  - phing generate
+  cache:
+      paths:
+      - vendor
+  artifacts:
+      paths:
+      - public
+  only:
+  - master
