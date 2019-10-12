@@ -11,12 +11,12 @@ Some parts that can be reused by other projects were separated from main reposit
 Repositories
 ------------
 
-Almost all of the project's repositories are hosted on both GitHub: https://github.com/heroesofabenez and GitLab: https://gitlab.com/heroesofabenez/. The only exception is sources for this site. All development takes place on GitLab (where issues and pull/merge should be created). The repositories on GitHub are just mirrors.
+Almost all of the project's repositories are hosted on both [GitHub](https://github.com/heroesofabenez) and [GitLab](https://gitlab.com/heroesofabenez/). All development takes place on GitLab (where issues and pull/merge should be created). The repositories on GitHub are just mirrors.
 
 Used stuff
 ----------
 
-Our primary programming language is PHP. We use version 7.1, our code is ready for 7.2. Our projects are powered by Nette Framework: https://nette.org/en/. We heavily test our code with Nette Tester (improved by testbench by Martin Zlámal). We also run codesniffer, parallel lint and phpstan on our codebase in CI to ensure its quality.
+Our primary programming language is PHP. We use version 7.2, our code is ready for 7.3. Our projects are powered by [Nette Framework](https://nette.org/en/). We heavily test our code with Nette Tester (improved by testbench by Martin Zlámal). We also run codesniffer, parallel lint and phpstan on our codebase in CI to ensure its quality.
 
 Contributing
 ------------
@@ -27,5 +27,5 @@ Heroes of Abenez Project welcomes contributions. Just be sure to read our [guide
 Our packages
 ------------
 
-- chat: https://heroesofabenez.gitlab.io/chat
-- combat: https://heroesofabenez.gitlab.io/combat
+- [chat](https://heroesofabenez.gitlab.io/chat)
+- [combat](https://heroesofabenez.gitlab.io/combat)
