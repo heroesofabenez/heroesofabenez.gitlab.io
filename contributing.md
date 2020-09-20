@@ -42,4 +42,4 @@ We all are humans thus prone to errors. Do not hesitate to point them out and/or
 
 * New features
 
-Our packages are not completed (well, most of them at least). There are some things we would like to add, just check [issues](https://gitlab.com/groups/heroesofabenez/issues) on GitLab. If there is something missing from your point of view, open a new issue. But be aware that we do not have to share your opinion so sometimes you will have to convince us.
+Our packages are not completed (well, most of them at least). There are some things we would like to add, just check [issues](https://gitlab.com/groups/heroesofabenez/-/issues) on GitLab. If there is something missing from your point of view, open a new issue. But be aware that we do not have to share your opinion so sometimes you will have to convince us.
